@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Capsule</string>
+    <string name="back_icon_desc">Back</string>
+    <string name="video">Video</string>
+    <string name="notes">Notes</string>
+    <string name="quiz">Quiz</string>
+    <string name="note_title">The Remora’s Sucker</string>
+    <string name="note_body">\n
+        The remora, a type of sucking fish, is able to attach itself firmly to other sea creatures and then detach itself with ease and without harming the host.\n\n
+        The remora attaches itself to rays, sharks, turtles, whales, and other sea creatures, regardless of the texture of their skin or shell. The remora feeds on parasites and its host’s leftover food—all the while enjoying a free ride and protection from predators. Researchers are studying the remora’s sucker, or suction disc, to see how it enables the fish to attach itself gently but firmly to a variety of surfaces.\n\n
+        The remora’s oval-shaped suction disc is located on the back of its head. The disc has a fleshy outer lip that forms a tight seal to maintain suction. Within the disc, rows of flaps have tiny, rigid spines. When the flaps are erect, the spines make contact with the host’s skin, creating friction. This combination of suction and friction keeps the remora firmly attached regardless of the host’s speed or sudden change in direction.</string>
+    <string name="up_next">Up Next:</string>
+    <string name="quiz_test">Quiz Test</string>
+    <string name="ten_questions">Questions: 10</string>
+    <string name="notes_description">Read about The Remora’s Sucker</string>
+    <string name="start_quiz_button">Start Quiz Test</string>
+    <string name="quiz_result">Result</string>
+    <string name="no_result_yet">Complete and submit quiz test to see result</string>
+    <string name="questions_tag">Question %d/%d</string>
+    <string name="help_icon_desc">Help</string>
+    <string name="question">Q%d. %s</string>
+    <string name="next_button">Next question</string>
+    <string name="prev_button">Previous question</string>
+    <string name="submit">SUBMIT</string>
+    <string name="score_text">Score: </string>
+    <string name="statistics">Statistics</string>
+    <string name="number_of_questions">Number of questions: %d</string>
+    <string name="questions_answered">Questions answered: %d</string>
+    <string name="correct_answers_given">Correct answers: %d</string>
+    <string name="reset">Reset</string>
+    <string name="help">Help</string>
+    <string name="help1">In order to save time, you can skip questions that seem tough and return to them before submission.\n
+        You are mandated to attempt more than half the questions.\n\n
+        Once you submit your answers, you will be directed to the Result screen.</string>
+    <string name="help2">Reset result to take quiz again.</string>
+    <string name="got_it">Got it</string>
+    <string name="welcome_greeting">Welcome!</string>
+    <string name="welcome_message">Please watch the video before proceeding.\nAfter which, read the note on the next screen.\n
+        Then you will be equipped to attempt the 10 questions that follow as they are based on either the video, note or general knowledge.\n
+        You are to complete all screens before the allotted 10 minutes.\n\n
+        Your time starts when you start.</string>
+    <string name="start_button">START</string>
+    <string name="time">You have %s left</string>
+    <string name="check_answer">CHECK ANSWER</string>
+    <string name="time_up">Time up!</string>
+    <string name="see_result">See result</string>
+    <string name="restart">Restart</string>
+    <string name="time_up_message">Oops! You were not able to finish up before time up.\nNext time, try to beat the time.</string>
+    <string name="one_at_a_time">Take it one at a time</string>
+</resources>
