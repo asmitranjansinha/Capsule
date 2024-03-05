@@ -20,3 +20,5 @@
 - Users also get to see their performance either after submitting their answers, or when the countdown is done. Then they will be given the opportunity to reset and restart the process.
 
 - This project follows the MVVM structure with Clean Architecture.
+
+- The apk for the project is in the "/apk" folder
