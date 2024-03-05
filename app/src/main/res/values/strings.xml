@@ -4,11 +4,8 @@
     <string name="video">Video</string>
     <string name="notes">Notes</string>
     <string name="quiz">Quiz</string>
-    <string name="note_title">The Remora’s Sucker</string>
-    <string name="note_body">\n
-        The remora, a type of sucking fish, is able to attach itself firmly to other sea creatures and then detach itself with ease and without harming the host.\n\n
-        The remora attaches itself to rays, sharks, turtles, whales, and other sea creatures, regardless of the texture of their skin or shell. The remora feeds on parasites and its host’s leftover food—all the while enjoying a free ride and protection from predators. Researchers are studying the remora’s sucker, or suction disc, to see how it enables the fish to attach itself gently but firmly to a variety of surfaces.\n\n
-        The remora’s oval-shaped suction disc is located on the back of its head. The disc has a fleshy outer lip that forms a tight seal to maintain suction. Within the disc, rows of flaps have tiny, rigid spines. When the flaps are erect, the spines make contact with the host’s skin, creating friction. This combination of suction and friction keeps the remora firmly attached regardless of the host’s speed or sudden change in direction.</string>
+    <string name="note_title">Blood Flow in the Heart</string>
+    <string name="note_body">\nBlood flow in the heart follows a specific pathway, ensuring efficient circulation throughout the body:\n\n\n1. Right Atrium: Deoxygenated blood returns from the body to the heart through the superior and inferior vena cavae, entering the right atrium.\n2.Tricuspid Valve: From the right atrium, blood flows through the tricuspid valve into the right ventricle.\n3. Right Ventricle: The right ventricle pumps blood through the pulmonary valve into the pulmonary artery, which carries it to the lungs for oxygenation.\n4. Pulmonary Arteries and Capillaries: In the lungs, blood releases carbon dioxide and picks up oxygen through the process of gas exchange in the pulmonary capillaries.\n5. Pulmonary Veins: Oxygenated blood returns from the lungs to the heart through the pulmonary veins, entering the left atrium.\n6. Mitral Valve: Blood passes through the mitral valve from the left atrium into the left ventricle.\n7. Left Ventricle: The left ventricle pumps oxygen-rich blood through the aortic valve into the aorta, which distributes it to the rest of the body.</string>
     <string name="up_next">Up Next:</string>
     <string name="quiz_test">Quiz Test</string>
     <string name="ten_questions">Questions: 10</string>

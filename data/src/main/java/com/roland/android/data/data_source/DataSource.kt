@@ -5,112 +5,112 @@ import com.roland.android.domain.entity.Question
 val questions = mutableListOf(
 	Question(
 		id = 0,
-		question = "The remora is mainly known for its special ability to _____.",
+		question = "Where does deoxygenated blood enter the heart?",
 		options = listOf(
-			"become invisible at the sight of predators",
-			"perform acrobatics immediately after eating",
-			"attach itself gently but firmly to a variety of surfaces",
-			"protect itself by shooting out spikes"
+			"Left atrium",
+			"Right ventricle",
+			"Right atrium",
+			"Left ventricle"
 		),
-		answer = "attach itself gently but firmly to a variety of surfaces"
+		answer = "Right atrium"
 	),
 	Question(
 		id = 1,
-		question = "Researchers are studying the remora's _____.",
+		question = "Which valve separates the right atrium from the right ventricle?",
 		options = listOf(
-			"ability to breath while sleeping under water",
-			"suction disc",
-			"flexible and acrobatic body",
-			"ability to shoot spikes without harming itself"
+			"Pulmonary valve",
+			"Mitral valve",
+			"Tricuspid valve",
+			"Aortic valve"
 		),
-		answer = "suction disc"
+		answer = "Tricuspid valve"
 	),
 	Question(
 		id = 2,
-		question = "The remora is also known as a _____.",
+		question = "Where does blood go after leaving the right ventricle?",
 		options = listOf(
-			"Wrecker of the Titanic",
-			"Swim and twist",
-			"Puffer-fish",
-			"Suckerfish"
+			"Pulmonary artery",
+			"Aorta",
+			"Pulmonary vein",
+			"Superior vena cava"
 		),
-		answer = "Suckerfish"
+		answer = "Pulmonary artery"
 	),
 	Question(
 		id = 3,
-		question = "What kind of animal is the remora?",
+		question = "What happens to blood in the lungs?",
 		options = listOf(
-			"Aquatic",
-			"Land and water",
-			"Terrestrial",
-			"Celestial"
+			"Oxygenation",
+			"Deoxygenation",
+			"Filtration",
+			"Coagulation"
 		),
-		answer = "Aquatic"
+		answer = "Oxygenation"
 	),
 	Question(
 		id = 4,
-		question = "_____ and _____ serve as food to the remora.",
+		question = "Which blood vessels carry oxygenated blood back to the heart?",
 		options = listOf(
-			"Salt water, carcass",
-			"Parasites, host's leftover food",
-			"Host's leftover food, nectar",
-			"Parasites, water"
+			"Pulmonary arteries",
+			"Pulmonary veins",
+			"Aorta",
+			"Inferior vena cava"
 		),
-		answer = "Parasites, host's leftover food"
+		answer = "Pulmonary veins"
 	),
 	Question(
 		id = 5,
-		question = "The fleshly outer lip on the bottom of the remora forms a tight seal for _____.",
+		question = "Which chamber of the heart pumps blood to the rest of the body?",
 		options = listOf(
-			"swimming against the tides",
-			"griping its food while swimming",
-			"maintaining suction",
-			"retaining oxygen while under water"
+			"Left atrium",
+			"Right ventricle",
+			"Right atrium",
+			"Left ventricle"
 		),
-		answer = "maintaining suction"
+		answer = "Left ventricle"
 	),
 	Question(
 		id = 6,
-		question = "The remora can take a firm hold against the _____.",
+		question = "What is the name of the valve between the left atrium and left ventricle?",
 		options = listOf(
-			"skin of whales",
-			"shell of turtles",
-			"skin of sharks",
-			"all of the above"
+			"Pulmonary valve",
+			"Mitral valve",
+			"Tricuspid valve",
+			"Aortic valve"
 		),
-		answer = "all of the above"
+		answer = "Mitral valve"
 	),
 	Question(
 		id = 7,
-		question = "How does the remora protect itself from predators?",
+		question = "Which blood vessel carries deoxygenated blood from the heart to the lungs?",
 		options = listOf(
-			"By shooting poisonous spikes",
-			"By reflecting light till it becomes invisible",
-			"By attaching itself to other sea creatures",
-			"By making friends with Dolphins"
+			"Pulmonary vein",
+			"Aorta",
+			"Pulmonary artery",
+			"Superior vena cava"
 		),
-		answer = "By attaching itself to other sea creatures"
+		answer = "Pulmonary artery"
 	),
 	Question(
 		id = 8,
-		question = "Despite the remora's firm grip, the only thing that detaches it from surfaces is _____.",
+		question = "Where does oxygenation of blood occur in the circulatory system?",
 		options = listOf(
-			"the sudden change in its host's direction",
-			"the speed of its host",
-			"all of the above",
-			"none of the above"
+			"Heart",
+			"Brain",
+			"Lungs",
+			"Liver"
 		),
-		answer = "none of the above"
+		answer = "Lungs"
 	),
 	Question(
 		id = 9,
-		question = "The suction disc of a remora is located _____ and is _____.",
+		question = "Which ventricle pumps blood to the pulmonary artery?",
 		options = listOf(
-			"on the back of its head, shapeless",
-			"on the mouth, oval-shaped",
-			"under its belly, shapeless",
-			"on the back of its head, oval-shaped"
+			"Left ventricle",
+			"Right ventricle",
+			"Both ventricles",
+			"Neither ventricle"
 		),
-		answer = "on the back of its head, oval-shaped"
+		answer = "Right ventricle"
 	)
 )
