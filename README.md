@@ -17,12 +17,6 @@ Capsule is a mobile application built with Kotlin that presents users with an in
 |<img src="screenshots/video_screen.png" width="200">|<img src="screenshots/notes_screen.png" width="200">|<img src="screenshots/quiz_screen.png" width="200">|<img src="screenshots/result_screen.png" width="200">|
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 
-## Videos
-
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-https://github.com/asmitranjansinha/Capsule/blob/main/video/app_video.mp4
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-
 ## Tech Stack
 
 - **Language:** Kotlin
